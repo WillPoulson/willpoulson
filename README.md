@@ -7,7 +7,7 @@ I'm a currently a Senior Frontend Developer <a href="https://github.com/crowdcom
 
 ### 💻 Technologies
 
-A short snippet of the main technologies I work with. Mainly the ones that I've applied in practive.
+A short snippet of the main technologies I work with. Mainly the ones that I've applied in practice.
 
 _In order of most skilled to least skilled_
 
