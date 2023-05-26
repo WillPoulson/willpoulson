@@ -1,9 +1,9 @@
 <!-- Introduction -->
-## Hi! I'm Will Poulson 👋
+### 😄 Who am I?
 
-### 😄 About me
+A Senior Frontend Developer <a href="https://github.com/crowdcomms">@crowdcomms</a> driving the future of remote, hybrid and physical events.
 
-I'm a currently a Senior Frontend Developer <a href="https://github.com/crowdcomms">@crowdcomms</a>. My primary focus is working in Angular however I have dabbled in several other frontend frameworks. 
+Primarliy working in Angular and Ionic. Interested in expanding into fullstack.
 
 ### 💻 Technologies
 
@@ -37,7 +37,7 @@ _In order of most skilled to least skilled_
 <a href="https://willpoulson.co.uk" target="_blank">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
 
 
-### 📈 GitHub Stats
+### 📈 Stats
 
 
 <div align="center">
