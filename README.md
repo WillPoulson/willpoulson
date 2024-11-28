@@ -1,7 +1,7 @@
 <!-- Introduction -->
 ### 😄 Who am I?
 
-A Senior Fullstack Developer <a href="https://github.com/crowdcomms">@crowdcomms</a> driving the future of remote, hybrid and physical events.
+A Principal Full Stack Developer <a href="https://github.com/crowdcomms">@crowdcomms</a> driving the future of remote, hybrid and physical events.
 
 Primarliy working in Angular and Ionic.
 
